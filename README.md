@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfonsoXavier26
-- 👀 I’m interested in PHP, CSS, HTML, PYTHON, JAVA
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in PHP, CSS, HTML, PYTHON, JAVA, FLUTTER
+- 🌱 I’m currently learning FLUTTER
 - 💞️ I’m looking to collaborate on some coding
 - 📫 How to reach me afonsovlxavier@gmail.com
 
